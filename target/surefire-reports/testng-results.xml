@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Entered Text in the Search text field]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23105" started-at="2021-08-22T20:07:35Z" finished-at="2021-08-22T20:07:58Z">
+    <groups>
+    </groups>
+    <test name="JMPCSearch" duration-ms="23105" started-at="2021-08-22T20:07:35Z" finished-at="2021-08-22T20:07:58Z">
+      <class name="com.JavaSelenium.JPMCSearch.tests.GoogleSearchTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.JavaSelenium.JPMCSearch.tests.GoogleSearchTest@2b2948e2]" name="init" is-config="true" duration-ms="88" started-at="2021-08-23T01:37:35Z" finished-at="2021-08-23T01:37:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="startingMethodPreReq()[pri:0, instance:com.JavaSelenium.JPMCSearch.tests.GoogleSearchTest@2b2948e2]" name="startingMethodPreReq" is-config="true" duration-ms="10202" started-at="2021-08-23T01:37:35Z" finished-at="2021-08-23T01:37:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startingMethodPreReq -->
+        <test-method status="PASS" signature="searchTest(org.testng.ITestContext)[pri:0, instance:com.JavaSelenium.JPMCSearch.tests.GoogleSearchTest@2b2948e2]" name="searchTest" duration-ms="11126" started-at="2021-08-23T01:37:46Z" finished-at="2021-08-23T01:37:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6cb6decd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entered Text in the Search text field]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="logoutAndCloseOpenedBrowsers()[pri:0, instance:com.JavaSelenium.JPMCSearch.tests.GoogleSearchTest@2b2948e2]" name="logoutAndCloseOpenedBrowsers" is-config="true" duration-ms="1656" started-at="2021-08-23T01:37:57Z" finished-at="2021-08-23T01:37:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutAndCloseOpenedBrowsers -->
+      </class> <!-- com.JavaSelenium.JPMCSearch.tests.GoogleSearchTest -->
+    </test> <!-- JMPCSearch -->
+  </suite> <!-- Suite -->
+</testng-results>

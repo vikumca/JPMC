@@ -1,0 +1,91 @@
+2021-08-23 00:14:21,129  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2021-08-23 00:14:21,152  INFO root [main] - Reading the Configuration file
+2021-08-23 00:14:21,410  INFO root [main] - Completed the reading of the Configuration file
+2021-08-23 00:14:21,689  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2021-08-23 00:14:30,310  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2021-08-23 00:14:30,383  INFO root [main] - Started Chrome Browser successfully.
+2021-08-23 00:14:30,648  INFO root [main] - https://www.google.co.in/
+2021-08-23 00:14:30,648  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2021-08-23 00:14:30,649  INFO root [main] - WebDriver navigating to:'https://www.google.co.in/'
+2021-08-23 00:14:33,457  INFO root [main] - Navigated to https://www.google.co.in/ link
+2021-08-23 00:14:35,911  INFO root [main] - Page loaded successfully
+2021-08-23 00:14:36,174  INFO root [main] - Element element: txtSearch loaded
+2021-08-23 00:14:36,367  INFO root [main] - TextField element: txtSearch => J.P.Morgan set text successfully
+2021-08-23 00:14:36,465  INFO root [main] - Page loaded successfully
+2021-08-23 00:14:38,574  INFO root [main] - Element element: btnGoogleSearch loaded
+2021-08-23 00:14:41,625  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.JPMCSearch.JPMCSearch.GoogleHomePage.btnGoogleSearch'
+2021-08-23 00:14:41,625  INFO root [main] - Button element: btnGoogleSearch clicked
+2021-08-23 00:14:53,418  INFO root [main] - Page loaded successfully
+2021-08-23 00:14:53,626  INFO root [main] - *** Verified: Logo is displayed correctly' ***
+2021-08-23 00:37:31,923  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2021-08-23 00:37:31,956  INFO root [main] - Reading the Configuration file
+2021-08-23 00:37:32,201  INFO root [main] - Completed the reading of the Configuration file
+2021-08-23 00:37:32,479  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2021-08-23 00:37:39,989  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2021-08-23 00:37:40,004  INFO root [main] - Started Chrome Browser successfully.
+2021-08-23 00:37:40,184  INFO root [main] - https://www.google.co.in/
+2021-08-23 00:37:40,184  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2021-08-23 00:37:40,184  INFO root [main] - WebDriver navigating to:'https://www.google.co.in/'
+2021-08-23 00:37:42,697  INFO root [main] - Navigated to https://www.google.co.in/ link
+2021-08-23 00:37:45,035  INFO root [main] - Page loaded successfully
+2021-08-23 00:37:45,507  INFO root [main] - Element element: txtSearch loaded
+2021-08-23 00:37:45,671  INFO root [main] - TextField element: txtSearch => J.P.Morgan set text successfully
+2021-08-23 00:37:45,811  INFO root [main] - Page loaded successfully
+2021-08-23 00:37:47,918  INFO root [main] - Element element: btnGoogleSearch loaded
+2021-08-23 00:37:50,511  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.JPMCSearch.JPMCSearch.GoogleHomePage.btnGoogleSearch'
+2021-08-23 00:37:50,511  INFO root [main] - Button element: btnGoogleSearch clicked
+2021-08-23 00:38:02,730  INFO root [main] - WebDriver clicking on: 'xpath: //a[contains(@href, 'https://www.jpmorgan.com')]]'
+2021-08-23 00:38:08,999  INFO root [main] - Page loaded successfully
+2021-08-23 00:38:14,339  INFO root [main] - Page loaded successfully
+2021-08-23 00:38:14,427  INFO root [main] - *** Verified: Logo is displayed correctly' ***
+2021-08-23 01:33:45,492  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2021-08-23 01:33:45,498  INFO root [main] - Reading the Configuration file
+2021-08-23 01:33:45,615  INFO root [main] - Completed the reading of the Configuration file
+2021-08-23 01:33:45,675  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2021-08-23 01:33:51,494  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2021-08-23 01:33:51,502  INFO root [main] - Started Chrome Browser successfully.
+2021-08-23 01:33:51,662  INFO root [main] - https://www.google.co.in/
+2021-08-23 01:33:51,662  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2021-08-23 01:33:51,662  INFO root [main] - WebDriver navigating to:'https://www.google.co.in/'
+2021-08-23 01:33:54,032  INFO root [main] - Navigated to https://www.google.co.in/ link
+2021-08-23 01:33:56,150  INFO root [main] - Page loaded successfully
+2021-08-23 01:33:56,282  INFO root [main] - Element element: txtSearch loaded
+2021-08-23 01:33:56,391  INFO root [main] - TextField element: txtSearch => J.P.Morgan set text successfully
+2021-08-23 01:33:56,408  INFO root [main] - Page loaded successfully
+2021-08-23 01:33:58,505  INFO root [main] - Element element: btnGoogleSearch loaded
+2021-08-23 01:34:01,169  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.JPMCSearch.JPMCSearch.GoogleHomePage.btnGoogleSearch'
+2021-08-23 01:34:01,169  INFO root [main] - Button element: btnGoogleSearch clicked
+2021-08-23 01:34:01,205  INFO root [main] - Page loaded successfully
+2021-08-23 01:34:06,265 ERROR root [main] - WebDriver error: Element not found By.xpath: //div[@class='logo-desktop-only']//img[@class='first-logo']
+2021-08-23 01:34:12,309 ERROR root [main] - WebDriver error: Element not found By.xpath: //div[@class='logo-desktop-only']//img[@class='first-logo']
+2021-08-23 01:34:18,333 ERROR root [main] - WebDriver error: Element not found By.xpath: //div[@class='logo-desktop-only']//img[@class='first-logo']
+2021-08-23 01:34:24,351 ERROR root [main] - WebDriver error: Element not found By.xpath: //div[@class='logo-desktop-only']//img[@class='first-logo']
+2021-08-23 01:34:30,376 ERROR root [main] - WebDriver error: Element not found By.xpath: //div[@class='logo-desktop-only']//img[@class='first-logo']
+2021-08-23 01:34:36,411 ERROR root [main] - WebDriver error: Element not found By.xpath: //div[@class='logo-desktop-only']//img[@class='first-logo']
+2021-08-23 01:34:36,412 ERROR root [main] - #### Failure at the method:  isDisplayed() of Element class
+2021-08-23 01:34:36,412  INFO root [main] - *** FAILED: Not displayed' ***
+2021-08-23 01:34:36,415  INFO root [main] - Screenshot captured for features case:searchTest
+2021-08-23 01:34:38,111  INFO root [main] - ================================ TEST METHOD ENDS  =========================================
+2021-08-23 01:37:35,876  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2021-08-23 01:37:35,882  INFO root [main] - Reading the Configuration file
+2021-08-23 01:37:36,011  INFO root [main] - Completed the reading of the Configuration file
+2021-08-23 01:37:36,072  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2021-08-23 01:37:41,850  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2021-08-23 01:37:41,857  INFO root [main] - Started Chrome Browser successfully.
+2021-08-23 01:37:42,023  INFO root [main] - https://www.google.co.in/
+2021-08-23 01:37:42,023  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2021-08-23 01:37:42,024  INFO root [main] - WebDriver navigating to:'https://www.google.co.in/'
+2021-08-23 01:37:44,066  INFO root [main] - Navigated to https://www.google.co.in/ link
+2021-08-23 01:37:46,200  INFO root [main] - Page loaded successfully
+2021-08-23 01:37:46,365  INFO root [main] - Element element: txtSearch loaded
+2021-08-23 01:37:46,522  INFO root [main] - TextField element: txtSearch => J.P.Morgan set text successfully
+2021-08-23 01:37:46,538  INFO root [main] - Page loaded successfully
+2021-08-23 01:37:48,638  INFO root [main] - Element element: btnGoogleSearch loaded
+2021-08-23 01:37:51,278  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.JPMCSearch.JPMCSearch.GoogleHomePage.btnGoogleSearch'
+2021-08-23 01:37:51,278  INFO root [main] - Button element: btnGoogleSearch clicked
+2021-08-23 01:37:51,338  INFO root [main] - Page loaded successfully
+2021-08-23 01:37:57,082  INFO root [main] - WebDriver clicking on: 'xpath: //a[contains(@href, 'https://www.jpmorgan.com')]]'
+2021-08-23 01:37:57,103  INFO root [main] - *** Verified: Clicked on the First Link' ***
+2021-08-23 01:37:57,119  INFO root [main] - Page loaded successfully
+2021-08-23 01:37:57,218  INFO root [main] - *** Verified: Logo is displayed correctly' ***
+2021-08-23 01:37:58,877  INFO root [main] - ================================ TEST METHOD ENDS  =========================================

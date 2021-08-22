@@ -1,0 +1,38 @@
+{
+  "time" : {
+    "start" : 1629662866170,
+    "stop" : 1629662877219,
+    "duration" : 11049
+  },
+  "testSuites" : [ {
+    "uid" : "b15537555a4221dd",
+    "name" : "Suite : JMPCSearch",
+    "title" : "Suite : JMPCSearch",
+    "time" : {
+      "start" : 1629662866170,
+      "stop" : 1629662877219,
+      "duration" : 11049
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "4460e665b5b1ead",
+      "name" : "searchTest[org.testng.TestRunner@6cb6decd]",
+      "title" : "Search test [org.testng.TestRunner@6cb6decd]",
+      "time" : {
+        "start" : 1629662866170,
+        "stop" : 1629662877219,
+        "duration" : 11049
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

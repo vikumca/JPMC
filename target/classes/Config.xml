@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameworkConfig>
+  <TestEnvironment Name="default">   
+    <Config name="Log4JPropertiesFilePath" value="./configuration/log4j.properties"></Config>
+	<Config name="ChromeDriverPath" value="./src/main/resources/drivers/chromedriver.exe"></Config>
+	<Config name="WebDriverCommandSwitch" value="webdriver_enable_native_events,--start-maximized,--ignore-certificate-errors"></Config>
+	<Config name="AppURL" value="https://www.google.co.in/"></Config>
+	<!-- Main User that has ImpersonateUser permissions -->
+	<Config name="BrowserType" value="chrome"></Config> <!--ie = iexplore , FireFox = firefox , Chrome = chrome , Safari = safari, Mobile = MobileDriver-->
+	<Config name="ElementWaitTime" value="30"></Config> <!-- ElementWaitTime = 40 seconds -->
+  </TestEnvironment> 
+
+</FrameworkConfig>

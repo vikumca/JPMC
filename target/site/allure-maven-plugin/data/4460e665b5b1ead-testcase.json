@@ -1,0 +1,59 @@
+{
+  "uid" : "4460e665b5b1ead",
+  "name" : "searchTest[org.testng.TestRunner@6cb6decd]",
+  "title" : "Search test [org.testng.TestRunner@6cb6decd]",
+  "time" : {
+    "start" : 1629662866170,
+    "stop" : 1629662877219,
+    "duration" : 11049
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "b15537555a4221dd",
+    "name" : "Suite : JMPCSearch",
+    "title" : "Suite : JMPCSearch"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Suite : JMPCSearch"
+  }, {
+    "name" : "host",
+    "value" : "FINLHYDAI452039"
+  }, {
+    "name" : "suite-name",
+    "value" : "Suite : JMPCSearch"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchTest"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "thread",
+    "value" : "12764@FINLHYDAI452039.main(1)"
+  }, {
+    "name" : "testGroup",
+    "value" : "JMPCSearch"
+  }, {
+    "name" : "testClass",
+    "value" : "com.JavaSelenium.JPMCSearch.tests.GoogleSearchTest"
+  } ],
+  "parameters" : [ ]
+}

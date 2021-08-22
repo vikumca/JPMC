@@ -1,0 +1,14 @@
+{
+  "testCases" : [ {
+    "uid" : "4460e665b5b1ead",
+    "name" : "searchTest[org.testng.TestRunner@6cb6decd]",
+    "title" : "Search test [org.testng.TestRunner@6cb6decd]",
+    "time" : {
+      "start" : 1629662866170,
+      "stop" : 1629662877219,
+      "duration" : 11049
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}

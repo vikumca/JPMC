@@ -1,0 +1,4 @@
+com\JavaSelenium\JPMCSearch\base\BaseTest.class
+com\JavaSelenium\JPMCSearch\tests\GoogleSearchTest.class
+com\JavaSelenium\JPMCSearch\runner\TestNGCukesRunner.class
+com\JavaSelenium\JPMCSearch\stepdefinitions\GoogleSearchSteps.class
